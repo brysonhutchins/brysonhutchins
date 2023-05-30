@@ -3,7 +3,7 @@
 <h2>👨‍💻 Pre-Sales Engineer Projects:</h2>
 
 - <b>Technical Product Demonstrations</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ClassDojo Demo](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>SQL Database Projects</b>
 
