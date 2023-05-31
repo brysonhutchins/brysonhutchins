@@ -3,7 +3,7 @@
 <h2>Pre-Sales Engineer Projects:</h2>
 
 - <b>Technical Product Demonstrations</b>
-  - [ClassDojo Demo]
+  - ClassDojo Demo
 
 - <b>SQL Database Projects</b>
 
