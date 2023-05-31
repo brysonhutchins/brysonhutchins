@@ -3,7 +3,7 @@
 <h2>👨‍💻 Pre-Sales Engineer Projects:</h2>
 
 - <b>Technical Product Demonstrations</b>
-  - [ClassDojo Demo](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ClassDojo Demo]
 
 - <b>SQL Database Projects</b>
 
@@ -17,7 +17,6 @@
    
 <h2>📺 Professional Development Videos/Articles</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
