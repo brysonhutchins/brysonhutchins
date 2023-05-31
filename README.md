@@ -1,6 +1,6 @@
 <h1>Hello, My Name is Bryson Hutchins! <br/><a 
 
-<h2>👨‍💻 Pre-Sales Engineer Projects:</h2>
+<h2>Pre-Sales Engineer Projects:</h2>
 
 - <b>Technical Product Demonstrations</b>
   - [ClassDojo Demo]
@@ -15,11 +15,11 @@
    - [Qualys Certified Specialist - Vulnerability Management Detectioin and Response](https://drive.google.com/file/d/1LEmWz_vKOnDpMjuadvNFmHJAXKQoRw09/view?usp=share_link)
     - [Qualys Certified Specialist - Scanning Strategies and Best Practices](https://drive.google.com/file/d/1mQqydShOFg8T5MrKtztfSZ2jWGUQ65Md/view?usp=share_link)
    
-<h2>📺 Professional Development Videos/Articles</h2>
+<h2> Professional Development Videos/Articles</h2>
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
