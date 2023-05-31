@@ -15,16 +15,20 @@
    - [Qualys Certified Specialist - Vulnerability Management Detectioin and Response](https://drive.google.com/file/d/1LEmWz_vKOnDpMjuadvNFmHJAXKQoRw09/view?usp=share_link)
     - [Qualys Certified Specialist - Scanning Strategies and Best Practices](https://drive.google.com/file/d/1mQqydShOFg8T5MrKtztfSZ2jWGUQ65Md/view?usp=share_link)
    
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Professional Development Videos/Articles</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[instagram]: (https://www.instagram.com/bodybyhutch/)
-[linkedin]: linkedin.com/in/brysonhutchins
 
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/bodybyhutch/
+[linkedin]: (https://www.linkedin.com/in/brysonhutchins/)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
