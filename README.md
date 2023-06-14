@@ -4,7 +4,7 @@
 
 - <b>Technical Product Demonstrations</b>
   - ClassDojo Demo
-
+  - [BDR Final Interview Deck](https://docs.google.com/presentation/d/1NvyLB73wjSZCAaxqmtj-Rg4DcStShjFRaDDYIADaC5Y/edit?usp=sharing)
 - <b>SQL Database Projects</b>
 
 - <b>Qualys Projects</b>
