@@ -5,7 +5,8 @@
 - <b>Technical Product Demonstrations</b>
   - ClassDojo Demo
   - [BDR Final Interview Deck](https://docs.google.com/presentation/d/1NvyLB73wjSZCAaxqmtj-Rg4DcStShjFRaDDYIADaC5Y/edit?usp=sharing)
-- <b>SQL Database Projects</b>
+<h2>HTML Website Projects</h2>
+  <li> <a href="https://brysonhutchins.github.io/html-portfolio/">HTML Portfolio Project #1></li>
 
 - <b>Qualys Projects</b>
 
